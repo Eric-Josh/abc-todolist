@@ -1,4 +1,4 @@
-# abc todoList
+## abc todoList
 
 ## Build
 Built with Laravel 8, PHP 8.x, Vue 3
@@ -14,7 +14,7 @@ Built with Laravel 8, PHP 8.x, Vue 3
 * Run Migration `php artisan migrate`
 * Run app `php artisan serve` & `npm run hot`
 
-## CRUDE Endpoints
+## CRUD Endpoints
 ```
 GET: /api/items
 
